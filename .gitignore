@@ -1,0 +1,9 @@
+# NodeJS modules
+node_modules
+
+# Lock files
+package-lock.json
+*.lock
+
+# Log files
+*.log

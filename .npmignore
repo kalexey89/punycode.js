@@ -1,0 +1,14 @@
+
+# Source code
+src
+
+# Documentation
+doc
+
+# Tests
+test
+
+.gitattributes
+.gitignore
+.npmignore
+.babelrc
